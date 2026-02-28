@@ -42,6 +42,4 @@
 
 ---
 
-###  Python
-```python
-AI CODE 
+
