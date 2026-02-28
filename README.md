@@ -19,10 +19,8 @@
 ---
 
 ### 🚀 Về Tao
-- 🤖 **Lập trình cùng AI:** Mình là một developer thế hệ mới, chuyên sử dụng các công cụ **AI** (như ChatGPT, GitHub Copilot, Gemini) để hỗ trợ viết code, fix bug và tăng tốc độ học tập.
-- 🐍 **Ngôn ngữ chính:** Đang tập trung làm chủ **Python** để làm tool, automation và xử lý dữ liệu.
-- 💬 **Discord:** Liên hệ mình tại `stand796` .
-- 🛠️ **Phương châm:** "Làm việc thông minh hơn, không chỉ chăm chỉ hơn" nhờ sự kết hợp giữa logic con người và hiệu suất của AI.
+- 💩 **Ngôn ngữ ** Đang tập trung làm chủ **Python** để làm tool
+- 💬 **Discord:** Liên hệ tao tại discord `stand796` .
 
 ---
 
@@ -35,13 +33,4 @@
 </p>
 
 ---
-
-### 📊 Thống kê GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
-</p>
-
----
-
 
