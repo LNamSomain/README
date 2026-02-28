@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/Handshake.png" alt="Handshake" width="100" />
 
-*"Tận dụng sức mạnh của AI để viết code sạch hơn, nhanh hơn và thông minh hơn."*
+*"Tao Là Một Thằng Óc Chó Sài AI Để Code."*
 
 ---
 
