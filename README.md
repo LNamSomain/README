@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Về mình
+### 🚀 Về Tao
 - 🤖 **Lập trình cùng AI:** Mình là một developer thế hệ mới, chuyên sử dụng các công cụ **AI** (như ChatGPT, GitHub Copilot, Gemini) để hỗ trợ viết code, fix bug và tăng tốc độ học tập.
 - 🐍 **Ngôn ngữ chính:** Đang tập trung làm chủ **Python** để làm tool, automation và xử lý dữ liệu.
 - 💬 **Discord:** Liên hệ mình tại `stand796` .
@@ -44,16 +44,4 @@
 
 ---
 
-### 🐍 Tư duy lập trình
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Stand796"
-        self.use_AI = True
-        self.motto = "Học nhanh hơn, code chất hơn nhờ AI"
 
-    def coding(self):
-        return "Đang tạo ra những điều thú vị với 🤖 + 🐍"
-
-stand = Developer()
-print(stand.coding())
