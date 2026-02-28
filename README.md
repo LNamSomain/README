@@ -21,7 +21,7 @@
 ### 🚀 Về mình
 - 🤖 **Lập trình cùng AI:** Mình là một developer thế hệ mới, chuyên sử dụng các công cụ **AI** (như ChatGPT, GitHub Copilot, Gemini) để hỗ trợ viết code, fix bug và tăng tốc độ học tập.
 - 🐍 **Ngôn ngữ chính:** Đang tập trung làm chủ **Python** để làm tool, automation và xử lý dữ liệu.
-- 💬 **Discord:** Liên hệ mình tại `stand796` (ID: 1131131702501183528).
+- 💬 **Discord:** Liên hệ mình tại `stand796` .
 - 🛠️ **Phương châm:** "Làm việc thông minh hơn, không chỉ chăm chỉ hơn" nhờ sự kết hợp giữa logic con người và hiệu suất của AI.
 
 ---
