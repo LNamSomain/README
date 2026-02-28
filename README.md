@@ -42,16 +42,6 @@
 
 ---
 
-### 🐍 Một chút cảm hứng từ Python
+###  Python
 ```python
-class Developer:
-    def __init__(self):
-        self.name = "Stand796"
-        self.role = "Python Learner"
-        self.language = "Python"
-        
-    def say_hi(self):
-        print(f"Lập trình không chỉ là code, đó là nghệ thuật.")
-
-stand = Developer()
-stand.say_hi()
+AI CODE 
