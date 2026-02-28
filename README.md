@@ -1,15 +1,13 @@
 <div align="center">
 
-# 👋 Xin chào, mình là Stand796 (Namsomain)
-### 🐍 Python Developer | AI-Assisted Coder | Tech Explorer
+### 🤖 AI Code
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/Handshake.png" alt="Handshake" width="100" />
 
 *"Tao Là Một Thằng Óc Chó Sài AI Để Code."*
 
 ---
 
-### 🌐 Kết nối với mình
+### 🌐 Info
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61584805858205)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1131131702501183528)
 [![Bio](https://img.shields.io/badge/My%20Bio-Guns.lol-red?style=for-the-badge&logo=linktree&logoColor=white)](https://guns.lol/namsomain)
@@ -18,8 +16,8 @@
 
 ---
 
-### 🚀 Về Tao
-- 💩 **Ngôn ngữ ** Đang tập trung làm chủ **Python** để làm tool
+### 🚀 About Me
+- 💩 **Ngôn ngữ ** Đang tập trung làm chủ yếu sài **Python** để làm tool
 - 💬 **Discord:** Liên hệ tao tại discord `stand796` .
 
 ---
@@ -34,3 +32,5 @@
 
 ---
 
+### Fact
+- Kể cả cái read me này cùng là do gemini làm .
